@@ -1,0 +1,7 @@
+### echo "# usj-ads-2021-pw-todo-list" >> README.md
+### git init
+### git add README.md
+### git commit -m "first commit"
+### git branch -M main
+git remote add origin https://github.com/ArtemisiaDutra/usj-ads-2021-pw-todo-list.git
+git push -u origin main
